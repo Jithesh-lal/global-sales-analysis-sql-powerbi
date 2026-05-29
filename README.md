@@ -131,12 +131,6 @@ Built an interactive Power BI dashboard featuring:
 
 ---
 
-## Dashboard Preview
-
-(Add screenshots here)
-
----
-
 ## Files Included
 
 * Power BI Dashboard (`.pbix`)
